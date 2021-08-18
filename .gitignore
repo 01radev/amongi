@@ -1,0 +1,8 @@
+# Node files
+node_modules/
+
+# vscode
+.vscode/
+
+# database
+data/database.db
